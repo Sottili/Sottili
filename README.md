@@ -1,6 +1,6 @@
-### Olá sou Filipe! 👋
+### Olá sou Filipe!
 
-- Cursando Desenvolvimento de sistemas em uma ETEC
+- Cursando Desenvolvimento de sistemas em ETEC
 - Atualmente focado em JAVASCRIPT.
 - Contate-me no email: felipesottili32@gmail.com
 <div align="center">
