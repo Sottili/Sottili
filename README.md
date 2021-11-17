@@ -1,6 +1,6 @@
 ### Olá sou Filipe!
 
-- Cursando Desenvolvimento de sistemas em ETEC
+- Cursando Desenvolvimento de sistemas na ETEC Abdias do nascimento.
 - Atualmente focado em JAVASCRIPT.
 - Contate-me no email: felipesottili32@gmail.com
 <div align="center">
