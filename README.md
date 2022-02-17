@@ -1,4 +1,4 @@
-### Olá sou Filipe!
+### Olá sou Filipe Sottili!
 
 - Cursando Desenvolvimento de sistemas na ETEC Abdias do nascimento.
 - Atualmente focado em JAVASCRIPT.
