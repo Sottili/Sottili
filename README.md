@@ -1,7 +1,6 @@
 ### Olá sou Filipe Sottili!
 
-- Cursando Desenvolvimento de sistemas na ETEC Abdias do nascimento.
-- Atualmente focado em JAVASCRIPT.
+- Cursando Análise e Desenvolvimento de sistemas na Universidade Estácio de Sá.
 - Contate-me no email: felipesottili32@gmail.com
 <div align="center">
   <a href="https://github.com/Sottili">
