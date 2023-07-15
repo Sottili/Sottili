@@ -1,4 +1,4 @@
-### Olá sou Filipe Sottili!
+### Olá me chamo Filipe Sottili!
 
 - Cursando Análise e Desenvolvimento de sistemas na Universidade Estácio de Sá.
 - Contate-me no email: felipesottili32@gmail.com
@@ -14,5 +14,6 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg">
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
  </div>
 
