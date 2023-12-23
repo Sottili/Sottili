@@ -1,5 +1,6 @@
 ### Olá me chamo Filipe Sottili!
 
+- Formado em Técnico de Desenvolvimento de Sistemas na Etec Abdias do Nascimento
 - Cursando Análise e Desenvolvimento de sistemas na Universidade Estácio de Sá.
 - Contate-me no email: felipesottili32@gmail.com
 <div align="center">
