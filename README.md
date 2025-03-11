@@ -8,7 +8,7 @@
 
 ## My name is Filipe Sottili
 (Javascript | NodeJS | React JS | Typescript| HTML | CSS | Python | SQL  ) 🚀
-- 👩‍💻 Junior Developer @[Global Hitss](https://globalhitss.com/br/)
+- 👩‍💻 Junior Developer @[Onmotor](https://onmotor.com.br/)
 - 🏆 Discover Data With Oracle Education Foundation
 - 🎓 Analysis and Systems Development @ [Estacio](https://estacio.br/)
 - 💡 Love a good challenge
